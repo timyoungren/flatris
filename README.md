@@ -10,4 +10,6 @@
 
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
-Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
+Also see [elm-flatris](https://github.com/w0rm/elm-flatris). 
+
+# readme edit for devops class
